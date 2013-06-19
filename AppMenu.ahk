@@ -1,5 +1,8 @@
-﻿;~ Author:劇終
-;~ ini要自己改好了才能用, 否则报错
+﻿;~ Name:	AppMenu
+;~ Desc:	
+;~ Author:	劇終
+;~ Lib:		
+;~ Attention:	ini要自己改好了才能用, 否则报错
 ;~ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 #SingleInstance force
 ;~ #MaxThreads 255
